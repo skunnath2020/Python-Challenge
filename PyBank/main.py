@@ -1,5 +1,5 @@
 #Main.py loads the ~\git\Python-Challenge\PyBank\Resources\budget_data.csv
-
+#Created 11/16/2020 :Sushama Kunnath
 import csv
 import os
 # Declare and Init
@@ -10,11 +10,9 @@ months=[]
 curr_row=0
 prev_row=0
 averageDiff=0
-maxProfit=[]
-minProfit=[]
 #Get the file path
 csv_path=os.path.join('Resources', 'budget_data.csv')
-csv_wpath=os.path.join('Analysis', 'PyMeUp.txt')
+csv_wpath=os.path.join('Analysis', 'PyBank.txt')
 
 #Function to write the summary to file
 def writeToFile(profitList):
