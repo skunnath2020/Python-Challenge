@@ -66,6 +66,8 @@
 
 # Regarding Coding
 
-Used python and some of the modules like csv and os for file operations. Used the advaced features as list comprehension, lambda, zip to make code manageable. 
-Used Sort operations on dictionary of lists for the right display format. The output files are  written to respective folders mentioned.
+I have used python and some of the modules like csv and os for file operations. 
+The challenging part was to do sort operations on dictionary of lists for the right output format.
+I have  used some of the advanced features as list comprehension, lambda, zip to achieve that. 
+The output files for both PyBank and PyPoll are  written to thier respective Analysis folders.
 
