@@ -64,7 +64,7 @@
 * In addition, the  final script should both print the analysis to the terminal and export a text file with the results.
 
 
-# Regarding Coding
+# Coding challenges
 
 I have used python modules like csv and os for file operations. 
 The challenging part was to do sort operations on dictionary of lists for the right output format.
